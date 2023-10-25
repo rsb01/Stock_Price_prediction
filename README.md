@@ -1,15 +1,15 @@
 # Stock Price Prediction with LSTM
 
-This project demonstrates how to predict stock prices using a Long Short-Term Memory (LSTM) neural network in a Jupyter Notebook. We use historical stock price data for Apple Inc. (AAPL) as an example. The LSTM model is implemented with TensorFlow and scikit-learn libraries.
+*This project demonstrates how to predict stock prices using a Long Short-Term Memory (LSTM) neural network in a Jupyter Notebook. We use historical stock price data for Apple Inc. (AAPL) as an example. The LSTM model is implemented with TensorFlow and scikit-learn libraries.*
 
-Table of Contents
+**Table of Contents
 Introduction
 Installation
 Usage
 Results
 License
 Introduction
-Predicting stock prices is a challenging and complex task. This Jupyter Notebook demonstrates the basic process of predicting stock prices using LSTM, including data preprocessing, model creation, training, and evaluation.
+Predicting stock prices is a challenging and complex task. This Jupyter Notebook demonstrates the basic process of predicting stock prices using LSTM, including data preprocessing, model creation, training, and evaluation.**
 
 Installation
 Before running the Jupyter Notebook, you need to install the required libraries. You can do this using pip:
